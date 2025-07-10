@@ -1770,7 +1770,7 @@
             "type": "selection"
         }
     ],
-    "url_prefix": "http://localhost:3000/datasets/images/",
+    "url_prefix": "https://storage.googleapis.com/csn-images-batuarda/images/",
     "sprite_side": 32,
     "sprite_dir": "metadata_clip",
     "sprite_number": 11,
