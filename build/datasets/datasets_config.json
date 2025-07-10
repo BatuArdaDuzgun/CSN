@@ -1,0 +1,1 @@
+{"default": 0, "data": [{"name": "ArtHist-CLIP", "directory": "ArtHist-CLIP"}, {"name": "metadata_CLIP", "directory": "metadata_clip"}, {"name": "classifier_clip", "directory": "classifier_clip"}, {"name": "baseline_CLIP", "directory": "baseline_clip"}]}
